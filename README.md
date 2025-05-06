@@ -1,4 +1,4 @@
-## If ran on wordly.com, this script includes an automated version of my [wordle assistant script](https://github.com/nevolua/Wordle-Assistant) which can be accessed by navigating to the "Wordle" tab.
+## If ran on wordly.com, this script includes an automated version of my [wordle assistant script](https://github.com/n9vo/Wordle-Assistant) which can be accessed by navigating to the "Wordle" tab.
 
 # Overview
 
@@ -18,7 +18,7 @@ This is public software that has been developed for the testing of browser funct
 
 ## Using the script
 
-To run the script as a bookmarklet, navigate to https://nevolua.github.io/Browser-Utility-Suite/ and follow the instructions
+To run the script as a bookmarklet, navigate to https://n9vo.github.io/Browser-Utility-Suite/ and follow the instructions
 
 ## Scripts
 The toolkit includes the following scripts:
